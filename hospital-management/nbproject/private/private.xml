@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>web/loginModal.jsp</url>
+            <bookmark id="1">
+                <name/>
+                <line>23</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/H:/new%20project/project/hospital-management/nbproject/build-impl.xml~</file>
+            <file>file:/H:/new%20project/project/hospital-management/src/java/com/drchanneling/model/Patient.java</file>
+            <file>file:/H:/new%20project/project/hospital-management/web/Index.jsp</file>
+            <file>file:/H:/new%20project/project/hospital-management/web/Doctor.jsp</file>
+            <file>file:/H:/new%20project/project/hospital-management/web/Patient.jsp</file>
+            <file>file:/H:/new%20project/project/hospital-management/src/java/com/drchanneling/model/Appointment.java</file>
+            <file>file:/H:/new%20project/project/hospital-management/src/java/com/drchanneling/bean/DoctorBean.java</file>
+            <file>file:/H:/new%20project/project/hospital-management/web/css/indexStyles.css</file>
+            <file>file:/H:/new%20project/project/hospital-management/src/java/com/drchanneling/db/DBConnection.java</file>
+            <file>file:/H:/new%20project/project/hospital-management/src/java/com/drchanneling/bean/PatientBean.java</file>
+            <file>file:/H:/new%20project/project/hospital-management/src/java/com/drchanneling/bean/AppointmentBean.java</file>
+        </group>
+    </open-files>
+</project-private>
